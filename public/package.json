@@ -1,0 +1,17 @@
+{
+    "name": "mrc-categories",
+    "version": "0.0.1",
+    "author": "Mr. Casual",
+    "private": true,
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "node-sass": "~0.7.0",
+        "grunt-contrib-concat": "0.1.3",
+        "grunt-contrib-cssmin": "0.6.1",
+        "grunt-contrib-watch": "0.5.3",
+        "grunt-contrib-uglify": "0.2.0",
+        "jpegtran-bin": "0.2.0",
+        "grunt-contrib-imagemin": "0.4.0",
+        "grunt-contrib-copy": "*"
+    }
+}
