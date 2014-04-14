@@ -2,9 +2,9 @@
 
 This is a quick implementation of nested sets using Laravel 4 and jQuery. Key features:
 
-* Drag & drop sorting (using [jqTree](mbraak.github.io/jqTree/))
-* In-place editing (using [X-editable](vitalets.github.io/x-editable/))
-* Error notification and modal dialogs (using [Alertify](fabien-d.github.io/alertify.js/))
+* Drag & drop sorting (using [jqTree](http://mbraak.github.io/jqTree/))
+* In-place editing (using [X-editable](http://vitalets.github.io/x-editable/))
+* Error notification and modal dialogs (using [Alertify](http://fabien-d.github.io/alertify.js/))
  
 Under the hood, I rely on Aleksander Kalnoy's [nested set](https://github.com/lazychaser/laravel4-nestedset) package for Laravel that takes care of hierarchal data management.
 
